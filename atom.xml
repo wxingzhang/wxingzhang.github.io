@@ -6,7 +6,7 @@
   <link href="http://wxingzhang.com/atom.xml" rel="self"/>
   
   <link href="http://wxingzhang.com/"/>
-  <updated>2023-05-28T02:26:45.416Z</updated>
+  <updated>2023-05-28T02:56:51.301Z</updated>
   <id>http://wxingzhang.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://wxingzhang.com/2023/05/28/hello/"/>
-    <id>http://wxingzhang.com/2023/05/28/hello/</id>
+    <title>Hello, World!</title>
+    <link href="http://wxingzhang.com/2023/05/28/Hello,%20World!/"/>
+    <id>http://wxingzhang.com/2023/05/28/Hello,%20World!/</id>
     <published>2023-05-28T02:26:45.000Z</published>
-    <updated>2023-05-28T02:26:45.416Z</updated>
+    <updated>2023-05-28T02:56:51.301Z</updated>
     
+    <content type="html"><![CDATA[<p>Welcome to my Blog.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to my Blog.&lt;/p&gt;
+</summary>
+      
     
     
     
