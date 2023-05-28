@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wxingzhang.com/about/index.html</loc>
+    <loc>http://wxingzhang.com/2023/05/28/Hello,%20World!/</loc>
     
     <lastmod>2023-05-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://wxingzhang.com/2023/05/28/Hello,%20World!/</loc>
+    <loc>http://wxingzhang.com/about/index.html</loc>
     
     <lastmod>2023-05-28</lastmod>
     
@@ -22,25 +22,7 @@
   <url>
     <loc>http://wxingzhang.com/books/index.html</loc>
     
-    <lastmod>2022-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wxingzhang.com/categories/index.html</loc>
-    
-    <lastmod>2022-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wxingzhang.com/repository/index.html</loc>
-    
-    <lastmod>2022-06-26</lastmod>
+    <lastmod>2023-05-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,6 +30,24 @@
   
   <url>
     <loc>http://wxingzhang.com/tags/index.html</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wxingzhang.com/404.html</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wxingzhang.com/categories/index.html</loc>
     
     <lastmod>2022-06-26</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://wxingzhang.com/404.html</loc>
+    <loc>http://wxingzhang.com/repository/index.html</loc>
     
     <lastmod>2022-06-26</lastmod>
     
