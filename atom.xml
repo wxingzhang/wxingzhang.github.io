@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="http://wxingzhang.com/atom.xml" rel="self"/>
+  
+  <link href="http://wxingzhang.com/"/>
+  <updated>2023-05-28T02:26:45.416Z</updated>
+  <id>http://wxingzhang.com/</id>
+  
+  <author>
+    <name>wxing zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://wxingzhang.com/2023/05/28/hello/"/>
+    <id>http://wxingzhang.com/2023/05/28/hello/</id>
+    <published>2023-05-28T02:26:45.000Z</published>
+    <updated>2023-05-28T02:26:45.416Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
