@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wxingzhang.com/books/index.html</loc>
+    
+    <lastmod>2023-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wxingzhang.com/2023/05/28/Hello,%20World!/</loc>
     
     <lastmod>2023-05-28</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://wxingzhang.com/about/index.html</loc>
-    
-    <lastmod>2023-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wxingzhang.com/books/index.html</loc>
     
     <lastmod>2023-05-28</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://wxingzhang.com/</loc>
-    <lastmod>2023-05-28</lastmod>
+    <lastmod>2023-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
