@@ -1,9 +1,13 @@
 http://wxingzhang.com/books/index.html
+http://wxingzhang.com/2023/06/03/%E4%BF%A1%E6%81%AF%E7%AE%80%E5%8F%B2%EF%BC%9A%E4%B8%80%E6%AE%B5%E8%AE%A4%E7%9F%A5%E5%8D%87%E7%BA%A7%E7%9A%84%E6%97%85%E7%A8%8B/
+http://wxingzhang.com/categories/index.html
 http://wxingzhang.com/2023/05/28/Hello,%20World!/
 http://wxingzhang.com/about/index.html
 http://wxingzhang.com/tags/index.html
 http://wxingzhang.com/404.html
-http://wxingzhang.com/categories/index.html
-http://wxingzhang.com/repository/index.html
 http://wxingzhang.com/links/index.html
+http://wxingzhang.com/repository/index.html
 http://wxingzhang.com/
+http://wxingzhang.com/tags/%E8%AE%A4%E7%9F%A5/
+http://wxingzhang.com/tags/%E4%BF%A1%E6%81%AF/
+http://wxingzhang.com/categories/%E7%AC%94%E8%AE%B0/
